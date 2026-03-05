@@ -48,3 +48,67 @@ http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8
 
 #EXTINF:-1, channel24 
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
+
+#EXTINF:-1,Nagorik tv
+http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
+
+#EXTINF:-1, DBC news 
+http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
+
+#EXTINF:-1,Ekattor tv
+http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
+
+
+#EXTINF:-1, Independent 
+http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
+
+
+#EXTINF:-1,News 24
+http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
+
+#EXTINF:-1,Somoy News
+
+http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
+
+#EXTINF:-1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
