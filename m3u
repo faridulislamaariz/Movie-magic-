@@ -70,14 +70,36 @@ http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
 
 http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Channel I
+
+http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
+
+
+#EXTINF:-1,Bangla vision 
+
+http://cdn.moviemazic.xyz:8083/BanglaVision/index.m3u8
+
+#EXTINF:-1,BTV NATIONAL 
+
+http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
+
+#EXTINF:-1,Deepto Tv
+
+http://cdn.moviemazic.xyz:8083/DeeptoTV/index.m3u8
+
+#EXTINF:-1,Jamuna Tv
+
+http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
+
+
+#EXTINF:-1,ETV
+
+http://cdn.moviemazic.xyz:8083/ETV/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1,Zee Bangla
+http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/index.m3u8
 
 
 
