@@ -1,65 +1,50 @@
 #EXTM3U
 
 #EXTINF:-1,Tsport Hd
-
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
-
-
 
 
 #EXTINF:-1,United 8 Sport
 http://cdn.moviemazic.xyz:8083/Feedget/nsports/index.m3u8
 
 #EXTINF:-1,allsports
-
 http://cdn.moviemazic.xyz:8083/Feedget/allsports_3/index.m3u8
 
 #EXTINF:-1,willow_usa
-
 http://cdn.moviemazic.xyz:8083/Feedget/willow_usa/index.m3u8
 
 
 #EXTINF:-1,EurosportHD
-
 http://cdn.moviemazic.xyz:8083/Feedget/EurosportHD_17/index.m3u8
 
 #EXTINF:-1,TenCricket
-
 http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
 
 #EXTINF:-1,beinspots_2
-
 http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/index.m3u8
 
 #EXTINF:-1,SONY-TEN-1
 http://cdn.moviemazic.xyz:8083/SONY-TEN-1/index.m3u8
 
 #EXTINF:-1,SonyTenSports2
-
 http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports2_36/index.m3u8
 
 #EXTINF:-1,SonyTenSports5
-
 http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/index.m3u8
 
 #EXTINF:-1,Star-Select-Hd-1
-
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8
 
 #EXTINF:-1,Star-Select-Hd-2
-
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-2/index.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
-
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-1-HD/index.m3u8
 
 #EXTINF:-1,Star-Sports-2-HD
-
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-2-HD/index.m3u8
 
 #EXTINF:-1,PTV SPORTS 
-
 http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8
 
 
@@ -71,11 +56,9 @@ http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8
 http://cdn.moviemazic.xyz:8083/ATNNews/index.m3u8
 
 #EXTINF:-1, channel 24 
-
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
 
 #EXTINF:-1, Channel I
-
 http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
 
 
@@ -84,25 +67,20 @@ http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
 http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
 
 #EXTINF:-1,Ekattor tv
-
 http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
 
 
 #EXTINF:-1, Independent 
-
 http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
 
 #EXTINF:-1,Jamuna Tv
-
 http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
 
 
 #EXTINF:-1,News 24
-
 http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
 
 #EXTINF:-1,Somoy News
-
 http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
 
 
@@ -110,15 +88,15 @@ http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
 http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 
+
+
 #EXTINF:-1,Atn Bangla
 http://cdn.moviemazic.xyz:8083/ATNBangla/index.m3u8
 
 #EXTINF:-1,Bangla vision 
-
 http://cdn.moviemazic.xyz:8083/BanglaVision/index.m3u8
 
 #EXTINF:-1,BTV NATIONAL 
-
 http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
 
 
@@ -129,7 +107,6 @@ http://cdn.moviemazic.xyz:8083/btv/index.m3u8
 http://cdn.moviemazic.xyz:8083/Channel9/index.m3u8
 
 #EXTINF:-1,Deepto Tv
-
 http://cdn.moviemazic.xyz:8083/DeeptoTV/index.m3u8
 
 
@@ -184,7 +161,6 @@ http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
 http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
 
 #EXTINF:-1,Sony Tv
-
 http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8
 
 
@@ -199,12 +175,10 @@ http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/index.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/SonySABHD_10/index.m3u8
 
 #EXTINF:-1,& Picture HD
-
 http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
 
 
 #EXTINF:-1,ZEE CINEMA HD
-
 http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
 
 
