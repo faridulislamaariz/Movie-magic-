@@ -24,7 +24,7 @@ http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/index.m3u8
 
 #EXTINF:-1,SONY-TEN-1
-http://cdn.moviemazic.xyz:8083/SONY-TEN-1/index.m3u8
+http://cdn.moviemazic.xyz:8083/SonyTen1/index.m3u8
 
 #EXTINF:-1,SonyTenSports2
 http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports2_36/index.m3u8
