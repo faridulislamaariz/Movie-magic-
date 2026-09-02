@@ -3,6 +3,8 @@
 #EXTINF:-1,Tsport Hd
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
 
+#EXTINF:-1,Tsport Hd
+http://cdn.moviemazic.xyz:8083/Feedget/tsports/index.m3u8
 
 #EXTINF:-1,United 8 Sport
 http://cdn.moviemazic.xyz:8083/Feedget/nsports/index.m3u8
@@ -52,84 +54,92 @@ http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8
 
 
 
-#EXTINF:-1,ATN NEWS
+#EXTINF:-1,ATN NEWS HD
 http://cdn.moviemazic.xyz:8083/ATNNews/index.m3u8
 
-#EXTINF:-1, channel 24 
+#EXTINF:-1, channel 24 HD
 http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
 
-#EXTINF:-1, Channel I
+#EXTINF:-1, Channel I HD
 http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
 
 
-
-#EXTINF:-1, DBC news 
+#EXTINF:-1, DBC news HD
 http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
 
-#EXTINF:-1,Ekattor tv
+#EXTINF:-1,Ekattor tv HD
 http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
 
 
-#EXTINF:-1, Independent 
+#EXTINF:-1, Independent HD
 http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
 
-#EXTINF:-1,Jamuna Tv
+#EXTINF:-1,Jamuna Tv HD
 http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
 
 
-#EXTINF:-1,News 24
+#EXTINF:-1,News 24 HD
 http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
 
-#EXTINF:-1,Somoy News
+#EXTINF:-1,Somoy News HD
 http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
 
 
-#EXTINF:-1,Star News 
+#EXTINF:-1,Star News HD
 http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 
 
 
-#EXTINF:-1,Atn Bangla
+#EXTINF:-1,Atn Bangla HD
 http://cdn.moviemazic.xyz:8083/ATNBangla/index.m3u8
 
-#EXTINF:-1,Bangla vision 
+#EXTINF:-1,Bangla vision Hd
 http://cdn.moviemazic.xyz:8083/BanglaVision/index.m3u8
 
-#EXTINF:-1,BTV NATIONAL 
+#EXTINF:-1,Bangla Tv Hd
+http://cdn.moviemazic.xyz:8083/BanglaTV/index.m3u8
+
+#EXTINF:-1,Boishakhi TV HD 
+http://cdn.moviemazic.xyz:8083/BoishakhiTV/index.m3u8
+
+#EXTINF:-1,BTV NATIONAL HD
 http://cdn.moviemazic.xyz:8083/BTV-National/index.m3u8
 
 
 #EXTINF:-1,BTV 
 http://cdn.moviemazic.xyz:8083/btv/index.m3u8
 
-#EXTINF:-1,Channel 9 
+#EXTINF:-1,Channel 9 HD
 http://cdn.moviemazic.xyz:8083/Channel9/index.m3u8
 
-#EXTINF:-1,Deepto Tv
+#EXTINF:-1,Deepto Tv HD
 http://cdn.moviemazic.xyz:8083/DeeptoTV/index.m3u8
 
 
 
-#EXTINF:-1,ETV
+#EXTINF:-1,ETV HD
 http://cdn.moviemazic.xyz:8083/ETV/index.m3u8
 
-#EXTINF:-1,Gazi Tv
+#EXTINF:-1,Gazi Tv HD
 http://cdn.moviemazic.xyz:8083/live-5/index.m3u8
 
+#EXTINF:-1,Maasranga Tv HD 
+http://cdn.moviemazic.xyz:8083/Maasranga/index.m3u8
 
-#EXTINF:-1,NAGORIK TV
+#EXTINF:-1,NAGORIK TV HD
 http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8
 
 
-#EXTINF:-1,NTV 
+#EXTINF:-1,NTV HD
 http://cdn.moviemazic.xyz:8083/NTV/index.m3u8
 
 
 #EXTINF:-1,RTV HD 
 http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/index.m3u8
 
-
+#EXTINF:-1,SA TV HD 
+http://cdn.moviemazic.xyz:8083/SATV/index.m3u8
 
 
 
@@ -211,6 +221,8 @@ http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
 
 
+#EXTINF:-1,TLC HD
+http://cdn.moviemazic.xyz:8083/Feedget/TLCHD_13/index.m3u8
 
 
 
