@@ -22,6 +22,7 @@ http://cdn.moviemazic.xyz:8083/EurosportHD/index.m3u8
 
 #EXTINF:-1,TenCricket
 http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
+http://cdn.moviemazic.xyz:8083/TenCricket/index.m3u8
 
 #EXTINF:-1,beinspots_2
 http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/index.m3u8
@@ -55,6 +56,8 @@ http://cdn.moviemazic.xyz:8083/StarSports2HD/index.m3u8
 #EXTINF:-1,PTV SPORTS 
 http://cdn.moviemazic.xyz:8083/ptv/index.m3u8
 
+#EXTINF:-1,A SPORTS HD
+http://cdn.moviemazic.xyz:8083/ASports/index.m3u8
 
 
 
@@ -68,24 +71,32 @@ http://cdn.moviemazic.xyz:8083/channel24/index.m3u8
 
 #EXTINF:-1, Channel I HD
 http://cdn.moviemazic.xyz:8083/Feedget/chnnel-i_29/index.m3u8
+http://cdn.moviemazic.xyz:8083/ChannelI/index.m3u8
 
+
+#EXTINF:-1,DESH TV HD
+http://cdn.moviemazic.xyz:8083/DeshTV/index.m3u8
 
 #EXTINF:-1, DBC news HD
 http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8
 
 #EXTINF:-1,Ekattor tv HD
 http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/index.m3u8
+http://cdn.moviemazic.xyz:8083/EkattorTV/index.m3u8
 
 
 #EXTINF:-1, Independent HD
 http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/index.m3u8
+http://cdn.moviemazic.xyz:8083/IndependentTV/index.m3u8
 
 #EXTINF:-1,Jamuna Tv HD
 http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/index.m3u8
+http://cdn.moviemazic.xyz:8083/JamunaTV/index.m3u8
 
 
 #EXTINF:-1,News 24 HD
 http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/index.m3u8
+http://cdn.moviemazic.xyz:8083/News24/index.m3u8
 
 #EXTINF:-1,Somoy News HD
 http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
@@ -143,6 +154,7 @@ http://cdn.moviemazic.xyz:8083/NTV/index.m3u8
 
 #EXTINF:-1,RTV HD 
 http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/index.m3u8
+http://cdn.moviemazic.xyz:8083/RTV/index.m3u8
 
 #EXTINF:-1,SA TV HD 
 http://cdn.moviemazic.xyz:8083/SATV/index.m3u8
@@ -157,31 +169,38 @@ http://cdn.moviemazic.xyz:8083/enterr10-bangla/index.m3u8
 
 #EXTINF:-1,Sony Aath
 http://cdn.moviemazic.xyz:8083/Feedget/SonyAath_7/index.m3u8
+http://cdn.moviemazic.xyz:8083/SonyAath/index.m3u8
 
 #EXTINF:-1,Star Jalsha Hd
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
 
 #EXTINF:-1,Zee Bangla
 http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/index.m3u8
+http://cdn.moviemazic.xyz:8083/ZeeBanglaTV/index.m3u8
 
 
 
 
 
 
+#EXTINF:-1, Colors HD
+http://cdn.moviemazic.xyz:8083/COLORSHD/index.m3u8
 
 #EXTINF:-1,Star Movie Hd
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
+http://cdn.moviemazic.xyz:8083/Star-Movies/index.m3u8
 
 #EXTINF:-1,Star Gold 
 http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
 
 #EXTINF:-1,Sony Tv
 http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8
+http://cdn.moviemazic.xyz:8083/SonyEntertainmentTelevisionHD/index.m3u8
 
 
 #EXTINF:-1,Sony max
 http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
+http://cdn.moviemazic.xyz:8083/SonyMAX/index.m3u8
 
 #EXTINF:-1,Sony Pix Hd 
 http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/index.m3u8
@@ -196,6 +215,7 @@ http://cdn.moviemazic.xyz:8083/andpictureHD/index.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
 http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
+http://cdn.moviemazic.xyz:8083/ZeeCinemaHD/index.m3u8
 
 
 
@@ -204,31 +224,38 @@ http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
 
 #EXTINF:-1,Cartoon Network 
 http://cdn.moviemazic.xyz:8083/Feedget/CartoonNetwork_6/index.m3u8
+http://cdn.moviemazic.xyz:8083/CartoonNetwork/index.m3u8
 
 
 #EXTINF:-1,POGO 
 http://cdn.moviemazic.xyz:8083/Feedget/POGO_5/index.m3u8
+http://cdn.moviemazic.xyz:8083/pogo/index.m3u8
 
 
 #EXTINF:-1,Makkah Live 
 http://cdn.moviemazic.xyz:8083/Feedget/MakkahLive_21/index.m3u8
+http://cdn.moviemazic.xyz:8083/modinalive/index.m3u8
 
 
 
 
 #EXTINF:-1, Animal Planet HD
 http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/index.m3u8
+http://cdn.moviemazic.xyz:8083/AnimalPlanetHD/index.m3u8
 
 #EXTINF:-1, Discovery 
 http://cdn.moviemazic.xyz:8083/Feedget/Discovery/index.m3u8
+http://cdn.moviemazic.xyz:8083/Discovery/index.m3u8
 
 
 #EXTINF:-1,National Geographic 
 http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/index.m3u8
+http://cdn.moviemazic.xyz:8083/NationalGeographic/index.m3u8
 
 
 #EXTINF:-1,TLC HD
 http://cdn.moviemazic.xyz:8083/Feedget/TLCHD_13/index.m3u8
+http://cdn.moviemazic.xyz:8083/TLCHD/index.m3u8
 
 
 
