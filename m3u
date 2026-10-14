@@ -17,7 +17,8 @@ http://cdn.moviemazic.xyz:8083/Feedget/willow_usa/index.m3u8
 
 
 #EXTINF:-1,EurosportHD
-http://cdn.moviemazic.xyz:8083/Feedget/EurosportHD_17/index.m3u8
+http://cdn.moviemazic.xyz:8083/EurosportHD/index.m3u8
+
 
 #EXTINF:-1,TenCricket
 http://cdn.moviemazic.xyz:8083/Feedget/TenCricket/index.m3u8
@@ -29,17 +30,19 @@ http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/index.m3u8
 http://cdn.moviemazic.xyz:8083/SonyTen1/index.m3u8
 
 #EXTINF:-1,SonyTenSports2
-http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports2_36/index.m3u8
+http://cdn.moviemazic.xyz:8083/SonyTen2/index.m3u8
+
+#EXTINF:-1,SonyTenSports3
+http://cdn.moviemazic.xyz:8083/SonyTen3/index.m3u8
 
 #EXTINF:-1,SonyTenSports5
 http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/index.m3u8
 
 #EXTINF:-1,Star-Select-Hd-1
-http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8
 http://cdn.moviemazic.xyz:8083/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1,Star-Select-Hd-2
-http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-2/index.m3u8
+http://cdn.moviemazic.xyz:8083/StarSportsSelect2/index.m3u8
 
 #EXTINF:-1,Star-Sports-1-HD
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-1-HD/index.m3u8
@@ -47,10 +50,10 @@ http://cdn.moviemazic.xyz:8083/StarSports1HD/index.m3u8
 
 #EXTINF:-1,Star-Sports-2-HD
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Sports-2-HD/index.m3u8
+http://cdn.moviemazic.xyz:8083/StarSports2HD/index.m3u8
 
 #EXTINF:-1,PTV SPORTS 
-http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8
-
+http://cdn.moviemazic.xyz:8083/ptv/index.m3u8
 
 
 
